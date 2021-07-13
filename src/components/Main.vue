@@ -5,35 +5,6 @@
                 <span id="text">Content Goes Here</span>
             </div>
         </div>
-        <div class="container-fluid sky-row">
-            <div class="container items">
-
-                <div class="benefits">
-                    <img src="../assets/buy-comics-digital-comics.png" alt="">
-                    <p>DIGITAL COMICS</p>
-                </div>
-
-                <div class="benefits">
-                    <img src="../assets/buy-comics-shop-locator.png" alt="">
-                    <p>DC MERCHANDISE</p>
-                </div>
-
-                <div class="benefits">
-                    <img src="../assets/buy-comics-merchandise.png" alt="">
-                    <p>SUBSCRIPTION</p>
-                </div>
-
-                <div class="benefits">
-                    <img src="../assets/buy-comics-subscriptions.png" alt="">
-                    <p>COMIC SHOP LOCATOR</p>
-                </div>
-
-                <div class="benefits">
-                    <img src="../assets/buy-dc-power-visa.svg" alt="">
-                    <p>DC POWER VISA</p>
-                </div>
-            </div>
-        </div>
     </div>
 
 </template>
